@@ -208,13 +208,49 @@ También incluye servicios gRPC implementados en **C# y Python**, además de pr�
 
 ---
 
-## 📊 GitHub
+## 📊 Estadísticas de GitHub
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SalvaRMT&show_icons=true&hide_border=true&theme=transparent" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SalvaRMT&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=false" alt="Estadísticas de GitHub de SalvaRMT" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalvaRMT&layout=compact&hide_border=true&theme=transparent" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalvaRMT&layout=compact&langs_count=10&hide_border=true&theme=transparent" alt="Lenguajes más usados por SalvaRMT" />
+
+<br>
+
+<img width="700" src="https://streak-stats.demolab.com?user=SalvaRMT&theme=transparent&hide_border=true&locale=es" alt="Racha de contribuciones de SalvaRMT" />
+
+</div>
+
+> Las estadísticas de lenguajes son calculadas automáticamente a partir de los repositorios que GitHub puede analizar. Reflejan la cantidad de código detectado, no necesariamente el nivel de dominio de cada lenguaje.
+
+### 📈 Distribución de lenguajes
+
+<div align="center">
+
+<img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SalvaRMT&theme=transparent" alt="Repositorios por lenguaje" />
+
+<img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SalvaRMT&theme=transparent" alt="Lenguajes con más commits" />
+
+</div>
+
+### 🧰 Stack verificado en mis repositorios
+
+| Área | Tecnologías |
+|---|---|
+| **Web** | Next.js, React, TypeScript, JavaScript |
+| **Móvil** | React Native, Expo |
+| **Backend / APIs** | ASP.NET Core, REST, SOAP, gRPC, Protobuf |
+| **Bases de datos** | Cloud Firestore, MongoDB, MySQL, PostgreSQL |
+| **Persistencia móvil** | AsyncStorage |
+| **DevOps / Entornos** | Docker, Docker Compose |
+| **Autenticación** | Firebase Authentication, JWT, OAuth2 / ORY Hydra |
+| **Lenguajes adicionales** | C#, Go, Python |
+| **Control de versiones** | Git, GitHub |
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,firebase,cs,dotnet,go,python,docker,mongodb,mysql,postgres,git,github&perline=8)](https://skillicons.dev)
 
 </div>
 
