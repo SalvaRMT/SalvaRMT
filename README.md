@@ -1,276 +1,115 @@
-<div align="center">
+# Hola, soy Alan 👋
 
-# 👋 Hola, soy Alan Salvador Rojas Piña
+**Estudiante de Ingeniería de Software en la UAQ · Desarrollo web y móvil · Integración de servicios**
 
-### Estudiante de Ingeniería de Software · 8.º semestre  
-**Universidad Autónoma de Querétaro**
+Me gusta construir aplicaciones que conecten **interfaces, servicios y datos**, desde una pantalla web o móvil hasta las APIs y la persistencia que la hacen funcionar.
 
-Desarrollo móvil · Desarrollo web · Sistemas distribuidos · Firebase · APIs · Docker
+He trabajado en proyectos académicos, colaborativos y para un cliente, utilizando **React, Next.js, React Native, TypeScript y Firebase**, además de prácticas de sistemas distribuidos con **C#, Python y Go**.
 
-[![GitHub](https://img.shields.io/badge/GitHub-SalvaRMT-181717?style=for-the-badge&logo=github)](https://github.com/SalvaRMT)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alan%20Salvador%20Rojas%20Piña-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-salvador-rojas-pi%C3%B1a-b00838392/)
-[![Email](https://img.shields.io/badge/Email-alante9876%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alante9876@gmail.com)
+Me interesa seguir aprendiendo sobre **arquitectura de software, pruebas y automatización**. Actualmente busco oportunidades de prácticas profesionales en desarrollo e integración de software.
 
-</div>
-
----
-
-## 👨‍💻 Sobre mí
-
-Actualmente curso el **8.º semestre de Ingeniería de Software** en la **Universidad Autónoma de Querétaro**.
-
-Durante mi formación he desarrollado proyectos enfocados en:
-
-- aplicaciones móviles con **React Native y Expo**;
-- aplicaciones web con **Next.js y TypeScript**;
-- autenticación y persistencia con **Firebase**;
-- consumo y diseño de **APIs REST**;
-- comunicación mediante **SOAP y gRPC**;
-- bases de datos relacionales y NoSQL;
-- sincronización offline y almacenamiento local;
-- contenedores con **Docker**;
-- comunicación **peer-to-peer mediante sockets TCP**.
-
-Me interesa seguir fortaleciendo mis habilidades en desarrollo de software mediante proyectos que combinen frontend, backend, datos y arquitectura de sistemas.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alan_Salvador-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-salvador-rojas-pi%C3%B1a-b00838392/)
+[![GitHub](https://img.shields.io/badge/GitHub-SalvaRMT-181717?style=flat&logo=github&logoColor=white)](https://github.com/SalvaRMT)
+[![Email](https://img.shields.io/badge/Email-alante9876%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:alante9876@gmail.com)
 
 ---
 
-## 🛠️ Tecnologías
+## 🛠️ Stack tecnológico
 
-<div align="center">
+Tecnologías que he utilizado en mis proyectos y prácticas académicas.
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,firebase,cs,dotnet,go,python,docker,mongodb,mysql,postgres,git,github&perline=8)](https://skillicons.dev)
+### Lenguajes
 
-</div>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![CSharp](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 
-### También he trabajado con
+### Web y móvil
 
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-1B1F23?style=flat-square&logo=expo&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-API-02569B?style=flat-square)
-![SOAP](https://img.shields.io/badge/SOAP-Web%20Services-6DB33F?style=flat-square)
-![gRPC](https://img.shields.io/badge/gRPC-Protobuf-4285F4?style=flat-square)
-![AsyncStorage](https://img.shields.io/badge/AsyncStorage-Offline%20Storage-61DAFB?style=flat-square)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![PyMongo](https://img.shields.io/badge/PyMongo-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css&logoColor=white)
 
----
+### Backend e integración
 
-# 🚀 Proyectos destacados
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![REST](https://img.shields.io/badge/REST-API-009688?style=flat)
+![SOAP](https://img.shields.io/badge/SOAP-Services-6DB33F?style=flat)
+![gRPC](https://img.shields.io/badge/gRPC-Protobuf-4285F4?style=flat)
 
-## 🎓 Vida UAQ
+También he desarrollado prácticas de comunicación **P2P mediante sockets TCP** y autenticación con **JWT/OAuth2**.
 
-> Aplicación móvil orientada a centralizar información y servicios útiles para la comunidad universitaria.
+### Bases de datos y servicios
 
-**Tecnologías:** React Native · Expo · JavaScript · Firebase Authentication · Cloud Firestore
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=firebase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
-### Funciones principales
+Persistencia con **Firestore**, **Entity Framework Core** y almacenamiento local móvil con **AsyncStorage**.
 
-- registro e inicio de sesión;
-- roles de alumno y maestro;
-- información y búsqueda de espacios del campus;
-- integración con Google Maps;
-- gestión de proyectos de servicio social;
-- postulaciones;
-- registro y aprobación de horas;
-- chat asociado a proyectos;
-- eventos universitarios;
-- perfiles de usuario;
-- actualizaciones en tiempo real con Firestore.
+### Herramientas y pruebas
 
-[![Repositorio](https://img.shields.io/badge/Ver_repositorio-VidaUaqCCC-181717?style=for-the-badge&logo=github)](https://github.com/SalvaRMT/VidaUaqCCC)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat&logo=zod&logoColor=white)
 
----
-
-## 📚 Learnify
-
-> Plataforma web de aprendizaje y práctica diaria con seguimiento de progreso.
-
-**Tecnologías:** Next.js · TypeScript · React · Firebase · Firestore · Zod · React Hook Form · Recharts
-
-### Funciones principales
-
-- registro e inicio de sesión;
-- perfiles de usuario;
-- selección de meta diaria de práctica;
-- cuestionarios de opción múltiple;
-- registro de sesiones;
-- calendario de estudio;
-- rachas;
-- estadísticas de progreso;
-- persistencia con Firestore.
-
-El proyecto también contiene una configuración inicial para experimentar con **Genkit y Google AI**.
-
-[![Repositorio](https://img.shields.io/badge/Ver_repositorio-learnify-181717?style=for-the-badge&logo=github)](https://github.com/SalvaRMT/learnify)
+Uso de **Docker Compose**, validación de formularios con **React Hook Form y Zod**, y pruebas unitarias con **Vitest**.
 
 ---
 
-# 🎓 Repositorios académicos
+## 🧠 Cómo trabajo
 
-## 📱 DAM32 — Desarrollo de Aplicaciones Móviles
+En mis proyectos me enfoco en:
 
-Repositorio de prácticas realizadas durante una materia de desarrollo móvil.
+- Conectar el frontend con APIs y servicios.
+- Separar interfaces, lógica y acceso a datos.
+- Validar entradas y manejar errores.
+- Trabajar con autenticación y roles de usuario.
+- Resolver persistencia local y sincronización sin conexión.
+- Colaborar mediante Git, ramas y pull requests.
+- Documentar el funcionamiento y comprobar los cambios.
 
-La progresión del repositorio incluye:
-
-```text
-Componentes y Props
-        ↓
-Estado y Hooks
-        ↓
-Listas y Formularios
-        ↓
-CRUD local
-        ↓
-Consumo de APIs
-        ↓
-AsyncStorage y Cache
-        ↓
-Detección de conectividad
-        ↓
-Offline-first y sincronización
-```
-
-### Proyecto integrador: PostApi
-
-Aplicación móvil con:
-
-- arquitectura modular;
-- persistencia local;
-- cola de operaciones;
-- funcionamiento offline;
-- sincronización al recuperar conexión;
-- reintentos;
-- búsqueda y paginación;
-- manejo de conflictos;
-- estrategia **Last Write Wins (LWW)**.
-
-[![Repositorio](https://img.shields.io/badge/Ver_repositorio-DAM32-181717?style=for-the-badge&logo=github)](https://github.com/SalvaRMT/DAM32)
+Busco entender cómo se relacionan los componentes de una aplicación y mejorar su organización conforme avanzo.
 
 ---
 
-## 🌐 Sistemas Distribuidos
+## 🚀 Proyectos
 
-Repositorio académico enfocado en comunicación entre procesos y servicios distribuidos.
-
-### Tecnologías y conceptos aplicados
-
-- sockets TCP;
-- arquitectura peer-to-peer;
-- transferencia de archivos;
-- APIs REST;
-- servicios SOAP;
-- gRPC;
-- Protocol Buffers;
-- ASP.NET Core;
-- Entity Framework Core;
-- MongoDB;
-- MySQL;
-- PostgreSQL;
-- Docker y Docker Compose;
-- JWT;
-- OAuth2;
-- ORY Hydra.
-
-### Arquitectura trabajada
-
-```text
-Cliente
-   │
-   │ REST
-   ▼
-PokedexApi
-   │
-   │ SOAP
-   ▼
-PokemonApi
-   │
-   ▼
-Entity Framework Core
-   │
-   ▼
-MySQL
-```
-
-También incluye servicios gRPC implementados en **C# y Python**, además de prácticas P2P desarrolladas en **Go**.
-
-[![Repositorio](https://img.shields.io/badge/Ver_repositorio-SistemasDistribuidos-181717?style=for-the-badge&logo=github)](https://github.com/SalvaRMT/SistemasDistribuidos)
+| Proyecto | Descripción y participación | Tecnologías |
+| --- | --- | --- |
+| [**escala-apendicitis**](https://github.com/SalvaRMT/escala-apendicitis-flores-valderrama) | Participación en una aplicación para uso personal de un cliente, con registro y seguimiento de pacientes, formularios, gráficas y pruebas unitarias. | React · TypeScript · Firebase · Vitest |
+| [**SnitchAI — AIMOBILE**](https://github.com/ErickHub192/AIMOBILE) | Proyecto colaborativo. Mi aportación se centró en el frontend y su conexión con APIs de autenticación, proyectos, editor, chat, versiones y exportación. | Next.js · React · TypeScript · Supabase |
+| [**Vida UAQ**](https://github.com/SalvaRMT/VidaUaqCCC) | Aplicación móvil universitaria con información del campus, eventos, mapas y gestión de servicio social. | React Native · Expo · Firebase |
+| [**Learnify**](https://github.com/SalvaRMT/learnify) | Plataforma de aprendizaje con cuestionarios, metas diarias y seguimiento de sesiones y progreso. | Next.js · TypeScript · Firestore |
+| [**PostApi**](https://github.com/SalvaRMT/DAM32/tree/main/PostApi) | Aplicación académica con persistencia local, cola de operaciones, reintentos y sincronización con una API REST. | React Native · AsyncStorage · REST |
+| [**Sistemas Distribuidos**](https://github.com/SalvaRMT/SistemasDistribuidos) | Prácticas de interoperabilidad con REST, SOAP, gRPC, bases de datos, contenedores y comunicación P2P. | C# · Python · Go · Docker |
 
 ---
 
-## 📌 En este momento
+## 📚 Aprendizaje e intereses
 
-- 🎓 Cursando **8.º semestre de Ingeniería de Software**.
-- 💻 Fortaleciendo conocimientos de desarrollo web y móvil.
-- 🌐 Interesado en arquitectura de software y sistemas distribuidos.
-- 🔥 Buscando seguir construyendo proyectos con aplicaciones prácticas.
+Actualmente me interesa profundizar en:
 
----
+- Pruebas de software y automatización.
+- Arquitectura de aplicaciones y sistemas distribuidos.
+- Integración de servicios y manejo de datos.
+- Desarrollo de herramientas con aplicaciones prácticas.
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SalvaRMT&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=false" alt="Estadísticas de GitHub de SalvaRMT" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalvaRMT&layout=compact&langs_count=10&hide_border=true&theme=transparent" alt="Lenguajes más usados por SalvaRMT" />
-
-<br>
-
-<img width="700" src="https://streak-stats.demolab.com?user=SalvaRMT&theme=transparent&hide_border=true&locale=es" alt="Racha de contribuciones de SalvaRMT" />
-
-</div>
-
-> Las estadísticas de lenguajes son calculadas automáticamente a partir de los repositorios que GitHub puede analizar. Reflejan la cantidad de código detectado, no necesariamente el nivel de dominio de cada lenguaje.
-
-### 📈 Distribución de lenguajes
-
-<div align="center">
-
-<img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SalvaRMT&theme=transparent" alt="Repositorios por lenguaje" />
-
-<img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SalvaRMT&theme=transparent" alt="Lenguajes con más commits" />
-
-</div>
-
-### 🧰 Stack verificado en mis repositorios
-
-| Área | Tecnologías |
-|---|---|
-| **Web** | Next.js, React, TypeScript, JavaScript |
-| **Móvil** | React Native, Expo |
-| **Backend / APIs** | ASP.NET Core, REST, SOAP, gRPC, Protobuf |
-| **Bases de datos** | Cloud Firestore, MongoDB, MySQL, PostgreSQL |
-| **Persistencia móvil** | AsyncStorage |
-| **DevOps / Entornos** | Docker, Docker Compose |
-| **Autenticación** | Firebase Authentication, JWT, OAuth2 / ORY Hydra |
-| **Lenguajes adicionales** | C#, Go, Python |
-| **Control de versiones** | Git, GitHub |
-
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,firebase,cs,dotnet,go,python,docker,mongodb,mysql,postgres,git,github&perline=8)](https://skillicons.dev)
-
-</div>
+Completé **AWS Academy Cloud Foundations**, con una [insignia de formación verificable](https://www.credly.com/badges/b57e9228-94cf-475e-bb16-3c5359150a76).
 
 ---
 
 ## 📫 Contacto
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alan%20Salvador%20Rojas%20Piña-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-salvador-rojas-pi%C3%B1a-b00838392/)
-
-[![Email](https://img.shields.io/badge/Email-alante9876%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alante9876@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-**Alan Salvador Rojas Piña**  
-Ingeniería de Software · Universidad Autónoma de Querétaro
-
-</div>
+- 💼 LinkedIn: [Alan Salvador Rojas Piña](https://www.linkedin.com/in/alan-salvador-rojas-pi%C3%B1a-b00838392/)
+- 🐙 GitHub: [@SalvaRMT](https://github.com/SalvaRMT)
+- 📧 Email: [alante9876@gmail.com](mailto:alante9876@gmail.com)
